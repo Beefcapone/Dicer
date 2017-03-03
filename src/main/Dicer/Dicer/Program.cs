@@ -32,6 +32,7 @@ namespace Dicer
                     }
                 }
                 else if (keyPress.Key == ConsoleKey.M) Menu();
+                //Q = Esben Syndrome!
                 else if (keyPress.Key == ConsoleKey.Escape || keyPress.Key == ConsoleKey.Q) running = false;
             }
         }
