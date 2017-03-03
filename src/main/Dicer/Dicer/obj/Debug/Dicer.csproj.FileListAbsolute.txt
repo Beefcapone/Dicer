@@ -1,1 +1,6 @@
 C:\Dropbox\UCHolstebro\Visual  Studio\Dicer\src\main\Dicer\Dicer\bin\Debug\Dicer.exe.config
+C:\Dropbox\UCHolstebro\Visual  Studio\Dicer\src\main\Dicer\Dicer\bin\Debug\Dicer.exe
+C:\Dropbox\UCHolstebro\Visual  Studio\Dicer\src\main\Dicer\Dicer\bin\Debug\Dicer.pdb
+C:\Dropbox\UCHolstebro\Visual  Studio\Dicer\src\main\Dicer\Dicer\obj\Debug\Dicer.csprojResolveAssemblyReference.cache
+C:\Dropbox\UCHolstebro\Visual  Studio\Dicer\src\main\Dicer\Dicer\obj\Debug\Dicer.exe
+C:\Dropbox\UCHolstebro\Visual  Studio\Dicer\src\main\Dicer\Dicer\obj\Debug\Dicer.pdb
